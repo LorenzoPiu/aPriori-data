@@ -1,11 +1,12 @@
 # Tutorial datasets
 
 These datasets are derived from data provided by [BlastNet](https://blastnet.github.io).
+
 Original data © BlastNet contributors, licensed under Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
-The data have been processed and transformed for educational and demonstrative purposes to illustrate the use of this software.
+The data have been processed and transformed for educational and demonstrative purposes to illustrate the use of the Python library [aPriori](https://github.com/LorenzoPiu/aPriori/tree/main).
 
-Original dataset
+Original datasets [here](https://blastnet.github.io/datasets).
 
 ## Lifted H2 subdomain
 
