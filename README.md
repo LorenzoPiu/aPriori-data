@@ -1,5 +1,12 @@
 # Tutorial datasets
 
+These datasets are derived from data provided by [BlastNet](https://blastnet.github.io).
+Original data © BlastNet contributors, licensed under Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+
+The data have been processed and transformed for educational and demonstrative purposes to illustrate the use of this software.
+
+Original dataset
+
 ## Lifted H2 subdomain
 
 This folder contains a dataset used as a reference to test the library. The dataset was extracted from a DNS simulation of a [lifted non-premixed hydrogen jet flame](https://blastnet.github.io/jung2021.html) [1]. 
